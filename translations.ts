@@ -16,7 +16,7 @@ export const translations = {
       ctaPrimary: "Mulai Sekarang",
       ctaSecondary: "Pelajari Sistemnya",
       trustText: "Dipakai 500+ Brand Lokal",
-      partner: "Aman & Enkripsi",
+      partner: "Privasi Terjaga",
       demoTitle: "Simulasi Closing AI",
       demoPlaceholder: "Produk Bisnis Anda? (cth: Skincare, Fashion...)",
       demoButton: "Buat Script Sales",
@@ -42,8 +42,8 @@ export const translations = {
           tag: "Conversion"
         },
         {
-          title: "Koneksi QR Instan",
-          description: "Tanpa verifikasi ribet. Cukup scan QR Code seperti WhatsApp Web, AI langsung aktif di nomor Anda dalam hitungan detik.",
+          title: "Tautkan Perangkat (Link Device)",
+          description: "Sistem bekerja layaknya WhatsApp Web. Cukup tautkan perangkat sekali, AI langsung aktif membantu admin Anda.",
         },
         {
           title: "Setup Kilat 5 Menit",
@@ -64,8 +64,8 @@ export const translations = {
       subtitle: "Sistem yang sederhana, hasil yang luar biasa.",
       steps: [
         {
-          title: "Scan QR Code",
-          desc: "Hubungkan WhatsApp bisnis Anda cukup dengan scan QR Code sekali saja."
+          title: "Tautkan WhatsApp",
+          desc: "Hubungkan WhatsApp bisnis Anda melalui menu 'Linked Devices' di HP Anda."
         },
         {
           title: "Upload 'Otak' Bisnis",
@@ -108,8 +108,8 @@ export const translations = {
       title: "FAQ (Penting Dibaca)",
       items: [
         {
-          q: "Apakah akun WhatsApp saya aman dari Banned?",
-          a: "Aman. Kami menggunakan teknologi 'Human-Like Behavior'. AI mengetik dan membalas dengan jeda natural layaknya manusia, bukan broadcast barbar."
+          q: "Apakah aman untuk nomor WhatsApp utama?",
+          a: "Kami memprioritaskan keamanan dengan teknologi 'Human-Simulation'. AI mengetik dengan kecepatan natural dan jeda manusiawi untuk meminimalisir risiko deteksi spam."
         },
         {
           q: "Kenapa tidak ada Free Trial?",
@@ -125,7 +125,19 @@ export const translations = {
         },
         {
           q: "Kalau gaptek gimana?",
-          a: "Tenang, tampilannya sangat mudah. Tim support kami juga siap membantu via Zoom jika Anda kesulitan setting awal."
+          a: "Tenang, tampilannya sangat mudah. Tim support kami juga siap membantu via Google Meet jika Anda kesulitan setting awal."
+        },
+        {
+          q: "Apakah saya masih bisa balas chat manual?",
+          a: "Tentu! Anda dan tim CS tetap bisa membalas manual lewat HP atau WhatsApp Web. Fitur 'Auto-Pause' akan aktif otomatis jika mendeteksi admin manusia sedang mengetik."
+        },
+        {
+          q: "Data apa yang perlu saya siapkan?",
+          a: "Cukup siapkan File PDF/Word (Product Knowledge) atau link Website/Landing Page. Semakin lengkap info yang Anda berikan, semakin pintar AI menjual produk Anda."
+        },
+        {
+          q: "Apakah ada batasan jumlah kontak?",
+          a: "Tidak ada. Paket kami mendukung Unlimited Contacts. Anda bebas memproses ribuan chat prospek baru setiap harinya tanpa biaya tambahan per kontak."
         }
       ]
     }
@@ -146,7 +158,7 @@ export const translations = {
       ctaPrimary: "Start Now",
       ctaSecondary: "How It Works",
       trustText: "Trusted by 500+ Businesses",
-      partner: "Secure & Encrypted",
+      partner: "Privacy Protected",
       demoTitle: "Live Sales Simulation",
       demoPlaceholder: "Your Business Niche? (e.g. Real Estate...)",
       demoButton: "Generate Script",
@@ -172,8 +184,8 @@ export const translations = {
           tag: "Conversion"
         },
         {
-          title: "Instant QR Connection",
-          description: "No complex verification. Simply scan the QR Code like WhatsApp Web, and AI activates instantly on your number.",
+          title: "Instant 'Linked Device'",
+          description: "Works just like WhatsApp Web. Simply link your device once, and the AI activates instantly to assist your team.",
         },
         {
           title: "5-Minute Lightning Setup",
@@ -194,8 +206,8 @@ export const translations = {
       subtitle: "Simple system, extraordinary results.",
       steps: [
         {
-          title: "Scan QR Code",
-          desc: "Connect your WhatsApp Business simply by scanning a QR Code once."
+          title: "Link Device",
+          desc: "Connect your Business WhatsApp via the 'Linked Devices' menu on your phone."
         },
         {
           title: "Upload Business Brain",
@@ -238,8 +250,8 @@ export const translations = {
       title: "FAQ (Must Read)",
       items: [
         {
-          q: "Is my WhatsApp account safe from Bans?",
-          a: "Safe. We use 'Human-Like Behavior' technology. The AI types and replies with natural delays just like a real person, ensuring safety for normal business use."
+          q: "Is it safe for my main number?",
+          a: "We prioritize safety using 'Human-Simulation' technology. The AI types with natural speeds and human-like delays to minimize spam detection risk."
         },
         {
           q: "Why no Free Trial?",
@@ -255,7 +267,19 @@ export const translations = {
         },
         {
           q: "Do I need tech skills?",
-          a: "No, the interface is super easy. Our support team is also ready to help via Zoom if you need initial setup assistance."
+          a: "No, the interface is super easy. Our support team is also ready to help via Google Meet if you need initial setup assistance."
+        },
+        {
+          q: "Can I still reply manually?",
+          a: "Yes! You and your team can still reply via Phone or WhatsApp Web. The 'Auto-Pause' feature activates automatically if it detects a human admin typing."
+        },
+        {
+          q: "What data do I need to prepare?",
+          a: "Just prepare a PDF/Word file (Product Knowledge) or your Website/Landing Page link. The more detailed info you provide, the smarter the AI sells."
+        },
+        {
+          q: "Is there a contact limit?",
+          a: "No. Our plans support Unlimited Contacts. You can process thousands of new prospect chats daily without extra costs per contact."
         }
       ]
     }

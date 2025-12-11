@@ -47,12 +47,13 @@ export const Hero: React.FC<HeroProps> = ({ lang }) => {
               </Badge>
             </div>
             
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight text-foreground">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight text-foreground leading-[1.15]">
               {lang === 'id' ? (
                  <>
-                   Ubah WhatsApp Jadi <br />
-                   <span className="text-primary relative inline-block">
-                     Mesin Penjualan.
+                   Jangan Biarkan Leads Kabur.<br />
+                   <span className="text-foreground">Ubah WA Jadi </span>
+                   <span className="text-primary relative inline-block whitespace-nowrap">
+                     Mesin Closing.
                      <svg className="absolute w-full h-3 -bottom-1 left-0 text-primary/20 -z-10" viewBox="0 0 100 10" preserveAspectRatio="none">
                         <path d="M0 5 Q 50 10 100 5" stroke="currentColor" strokeWidth="8" fill="none" />
                      </svg>
@@ -60,9 +61,10 @@ export const Hero: React.FC<HeroProps> = ({ lang }) => {
                  </>
               ) : (
                 <>
-                  Automate WhatsApp. <br />
-                  <span className="text-primary relative inline-block">
-                    Explode Sales.
+                  Stop Losing Leads. <br />
+                  <span className="text-foreground">Turn WA Into A </span>
+                  <span className="text-primary relative inline-block whitespace-nowrap">
+                    Sales Machine.
                     <svg className="absolute w-full h-3 -bottom-1 left-0 text-primary/20 -z-10" viewBox="0 0 100 10" preserveAspectRatio="none">
                        <path d="M0 5 Q 50 10 100 5" stroke="currentColor" strokeWidth="8" fill="none" />
                     </svg>
@@ -71,21 +73,21 @@ export const Hero: React.FC<HeroProps> = ({ lang }) => {
               )}
             </h1>
             
-            <p className="text-lg text-muted-foreground max-w-xl mx-auto lg:mx-0 leading-relaxed">
+            <p className="text-lg text-muted-foreground max-w-xl mx-auto lg:mx-0 leading-relaxed font-medium">
               {t.subheadline}
             </p>
 
             <div className="flex flex-col sm:flex-row gap-3 justify-center lg:justify-start">
-              <Button size="lg" className="gap-2 h-12 px-8 text-base shadow-lg shadow-primary/25 font-bold" onClick={scrollToPricing}>
-                {t.ctaPrimary} <ArrowRight className="h-4 w-4" />
+              <Button size="lg" className="gap-2 h-14 px-8 text-lg shadow-xl shadow-primary/25 font-bold transition-transform hover:-translate-y-1" onClick={scrollToPricing}>
+                {t.ctaPrimary} <ArrowRight className="h-5 w-5" />
               </Button>
               <Button 
                 variant="outline" 
                 size="lg" 
-                className="h-12 px-8 text-base bg-white/50 backdrop-blur border-slate-300"
+                className="h-14 px-8 text-base bg-white/50 backdrop-blur border-slate-300 hover:bg-white/80"
                 onClick={() => document.getElementById('how-it-works')?.scrollIntoView({ behavior: 'smooth' })}
               >
-                <PlayCircle className="h-4 w-4 mr-2" /> {t.ctaSecondary}
+                <PlayCircle className="h-5 w-5 mr-2" /> {t.ctaSecondary}
               </Button>
             </div>
 

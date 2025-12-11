@@ -7,125 +7,125 @@ export const translations = {
       testimonials: "Klien",
       pricing: "Harga",
       login: "Masuk",
-      start: "Lihat Paket" // Changed from Coba Gratis to avoid misleading "free" promise
+      start: "Lihat Paket"
     },
     hero: {
-      badge: "Platform Automasi WhatsApp Sales #1",
-      headline: "Optimalkan Konversi WhatsApp dengan AI Sales Agent.",
-      subheadline: "Chatrigo membantu bisnis Anda merespon pelanggan secara instan, ramah, dan persuasif. Tanpa fitur broadcast berisiko, fokus pada kualitas percakapan dan konversi penjualan.",
+      badge: "Platform Automasi WhatsApp #1 Indonesia",
+      headline: "Ubah WhatsApp Jadi Mesin Closing 24 Jam.", // Not used directly in component but kept for reference
+      subheadline: "Stop boncos iklan karena admin slow respon. Biarkan AI Sales Agent melayani, follow-up, dan closing pelanggan secara otomatis menggunakan psikologi persuasi. Tanpa drama, tanpa admin tambahan.",
       ctaPrimary: "Mulai Sekarang",
-      ctaSecondary: "Pelajari Lebih Lanjut",
-      trustText: "Digunakan oleh 500+ Bisnis Online",
-      partner: "Keamanan Data Prioritas Utama",
-      demoTitle: "Simulasi AI Agent",
-      demoPlaceholder: "Produk bisnis Anda? (cth: Fashion Muslim...)",
-      demoButton: "Buat Contoh Chat",
-      demoBadge: "Live Preview",
-      chipsTitle: "Pilih Kategori:",
-      chips: ["Fashion", "Skincare", "E-Course", "Properti"],
+      ctaSecondary: "Pelajari Sistemnya",
+      trustText: "Dipakai 500+ Brand Lokal",
+      partner: "Aman & Anti-Banned",
+      demoTitle: "Simulasi Closing AI",
+      demoPlaceholder: "Produk Bisnis Anda? (cth: Skincare, Fashion...)",
+      demoButton: "Buat Script Sales",
+      demoBadge: "Live Demo",
+      chipsTitle: "Coba Kategori:",
+      chips: ["Fashion", "Herbal", "E-Course", "Properti"],
       aiPlaceholder: "AI Sales Agent Ready",
-      aiPlaceholderDesc: "Masukkan jenis bisnis Anda di atas untuk melihat bagaimana AI merespon calon pelanggan secara profesional."
+      aiPlaceholderDesc: "Ketik jenis bisnis Anda di atas. Lihat bagaimana AI mengubah tanya jawab menjadi penjualan."
     },
     features: {
-      badge: "Fitur Unggulan",
-      title: "Solusi Cerdas untuk Pertumbuhan Bisnis",
-      subtitle: "Kami menyediakan teknologi yang fokus pada efisiensi tim sales dan keamanan akun WhatsApp bisnis Anda.",
+      badge: "Kenapa Chatrigo?",
+      title: "Teknologi Peningkat Profit Bisnis",
+      subtitle: "Bukan sekadar balas chat. Ini adalah sistem penjualan lengkap yang bekerja saat Anda tidur.",
       list: [
         {
-          title: "AI Sales Assistant",
-          description: "Asisten cerdas yang dilatih untuk memahami konteks produk dan melayani pelanggan dengan bahasa yang natural dan sopan.",
-          tag: "Core AI"
+          title: "AI Sales Persuasion",
+          description: "AI tidak hanya menjawab, tapi 'menjual'. Dilatih dengan teknik copywriting hipnotik untuk mengubah 'Harga berapa?' menjadi 'Transfer kemana?'.",
+          tag: "Auto-Closing"
         },
         {
-          title: "Dashboard Analitik",
-          description: "Pantau performa tim sales dan sumber traffic secara real-time untuk pengambilan keputusan yang berbasis data.",
-          tag: "Data"
+          title: "Smart Pixel Tracking",
+          description: "Otomatis mengirim event Purchase/Lead ke Meta Ads saat terjadi deal di WhatsApp. Optimasi iklan jadi sangat akurat.",
+          tag: "Ads Optimizer"
         },
         {
-          title: "Aman & Terpercaya",
-          description: "Metode komunikasi inbound (chat masuk) yang mematuhi kebijakan WhatsApp, menjaga reputasi nomor bisnis Anda.",
+          title: "100% Aman (Official API)",
+          description: "Lupakan tools broadcast ilegal yang bikin nomor hangus. Kami menggunakan jalur resmi yang aman untuk aset jangka panjang.",
         },
         {
-          title: "Setup Cepat",
-          description: "Integrasi pengetahuan produk (Product Knowledge) semudah mengunggah dokumen atau menyalin link website.",
+          title: "Setup Kilat 5 Menit",
+          description: "Cukup upload PDF produk atau copy website Anda. AI langsung paham semua detail produk dalam hitungan detik.",
         },
         {
-          title: "Operasional 24/7",
-          description: "Sistem AI tidak butuh istirahat, melayani pelanggan Anda jam 3 pagi sekalipun tanpa henti, memastikan tidak ada leads yang terlewat.",
+          title: "Kerja 24/7 Tanpa Mengeluh",
+          description: "Admin manusia butuh tidur & libur. AI Chatrigo melayani ribuan chat jam 3 pagi dengan ramah & fast respon.",
         },
         {
-          title: "Skalabilitas Tanpa Batas",
-          description: "Mampu menangani ribuan chat secara bersamaan saat traffic iklan meledak, tanpa perlu pusing rekrut admin tambahan.",
+          title: "Unlimited Scale",
+          description: "Iklan sedang winning? Ribuan chat masuk bersamaan? Sistem kami handle semuanya tanpa antri, tanpa error.",
         }
       ]
     },
     howItWorks: {
-      title: "Integrasi Mudah & Cepat",
-      subtitle: "Tiga langkah sederhana untuk mentransformasi layanan pelanggan Anda.",
+      title: "3 Langkah Menuju Auto-Pilot",
+      subtitle: "Sistem yang sederhana, hasil yang luar biasa.",
       steps: [
         {
-          title: "Koneksikan WhatsApp",
-          desc: "Scan QR Code untuk menghubungkan nomor WhatsApp Business Anda ke platform Chatrigo."
+          title: "Hubungkan WhatsApp",
+          desc: "Scan QR Code sekali saja. Nomor bisnis Anda langsung terhubung ke otak AI kami."
         },
         {
-          title: "Latih AI Agent",
-          desc: "Berikan informasi produk atau SOP pelayanan. AI akan mempelajari dan beradaptasi secara instan."
+          title: "Upload 'Otak' Bisnis",
+          desc: "Berikan info produk & skrip jualan terbaik Anda. AI akan menirunya dengan sempurna."
         },
         {
-          title: "Siap Melayani",
-          desc: "AI Agent akan mulai merespon pesan masuk secara otomatis, 24/7 tanpa henti."
+          title: "Panen Closingan",
+          desc: "Tinggalkan. Biarkan AI yang membalas chat, follow-up, dan closing orderan Anda."
         }
       ]
     },
     testimonials: {
-      title: "Dipercaya oleh Pebisnis",
+      title: "Kata Mereka Yang Sudah Profit",
       items: [
         {
-          content: "Sejak menggunakan Chatrigo, response time kami meningkat drastis. Customer senang karena dilayani cepat, konversi pun naik signifikan.",
+          content: "Gila! Konversi iklan naik 2x lipat karena responnya cepet banget. Admin lama saya pindahin ke bagian packing karena kewalahan orderan.",
           role: "Owner",
           company: "GlowUp Skincare"
         },
         {
-          content: "Sangat membantu tim CS kami. Pertanyaan umum ditangani AI, jadi tim bisa fokus menangani komplain atau pertanyaan teknis yang rumit.",
-          role: "Digital Marketer",
+          content: "Fitur Pixel Tracking-nya game changer banget. Iklan FB Ads jadi makin tajam nyari pembeli. ROI bulan ini tembus 400%.",
+          role: "Digital Advertiser",
           company: "EduCourse ID"
         },
         {
-          content: "Sistemnya stabil dan aman. Saya tenang karena tidak ada fitur broadcast yang sering bikin nomor ke-banned. Sangat recommended.",
+          content: "Awalnya ragu, takut robot kaku. Ternyata bahasanya luwes banget kayak CS beneran. Customer gak sadar kalau lagi chat sama AI.",
           role: "Manager",
           company: "Local Brand Cloth"
         }
       ]
     },
     pricing: {
-      title: "Paket Berlangganan",
-      subtitle: "Pilih paket yang sesuai dengan skala bisnis Anda.",
-      popular: "Paling Hemat",
-      ctaSelect: "Pilih Paket",
+      title: "Investasi Profit Harian Anda",
+      subtitle: "Biaya langganan sebulan lebih murah dari gaji admin sehari.",
+      popular: "Paling Laris",
+      ctaSelect: "Ambil Paket Ini",
       ctaCurrent: "Hubungi Sales"
     },
     faq: {
-      title: "Pertanyaan Umum",
+      title: "FAQ (Penting Dibaca)",
       items: [
         {
-          q: "Apakah akun WhatsApp saya aman?",
-          a: "Ya, prioritas kami adalah keamanan. Chatrigo didesain untuk merespon chat masuk (inbound) secara natural, sesuai dengan pedoman penggunaan WhatsApp."
+          q: "Apakah akun WhatsApp saya aman dari Banned?",
+          a: "Sangat Aman. Kami menggunakan metode 'Reactive Response' (hanya membalas chat masuk), bukan tool spam/broadcast barbar. Ini sesuai dengan kebijakan WhatsApp Business."
         },
         {
           q: "Kenapa tidak ada Free Trial?",
-          a: "Untuk menjaga kualitas server yang premium dan stabil. Free trial sering disalahgunakan untuk aktivitas spam yang dapat merusak reputasi IP dan merugikan klien lain. Kami berkomitmen mensupport bisnis yang serius."
+          a: "Kualitas server AI kami premium dan costly. Kami memfilter pengguna iseng/spammer yang sering menyalahgunakan trial. Kami hanya bekerja sama dengan pebisnis serius yang siap profit."
         },
         {
-          q: "Apakah bisa mendeteksi penjualan (Closing)?",
-          a: "Tentu. Sistem kami dilengkapi fitur tracking yang dapat diintegrasikan dengan Meta Pixel atau tools analitik lain untuk mendeteksi konversi."
+          q: "Apakah bisa mendeteksi Closing (Penjualan)?",
+          a: "Bisa! Chatrigo mendeteksi kata kunci deal (seperti 'sudah transfer') dan mengirim sinyal konversi ke Dashboard atau Meta Pixel Anda."
         },
         {
-          q: "Apakah gaya bahasa AI bisa disesuaikan?",
-          a: "Sangat bisa. Anda dapat mengatur 'Tone of Voice' atau gaya bahasa AI agar sesuai dengan branding bisnis Anda, baik itu formal maupun santai."
+          q: "Apakah bahasanya kaku seperti robot?",
+          a: "Tidak. Anda bisa mengatur gaya bahasa (Tone): mau santai, formal, gaul, atau persuasif. AI akan menyesuaikan diri seperti manusia asli."
         },
         {
-          q: "Apakah perlu instalasi software di komputer?",
-          a: "Tidak perlu. Chatrigo berbasis Cloud (Web-based). Anda hanya perlu login melalui browser, dan sistem akan bekerja otomatis di server kami."
+          q: "Kalau gaptek gimana?",
+          a: "Tenang, tampilannya sangat mudah. Tim support kami juga siap membantu via Zoom jika Anda kesulitan setting awal."
         }
       ]
     }
@@ -134,128 +134,128 @@ export const translations = {
     nav: {
       features: "Features",
       howItWorks: "How it Works",
-      testimonials: "Clients",
+      testimonials: "Results",
       pricing: "Pricing",
       login: "Login",
       start: "View Plans"
     },
     hero: {
-      badge: "#1 WhatsApp Automation Platform",
-      headline: "Optimize Conversions with AI Sales Agents.",
-      subheadline: "Chatrigo helps your business respond instantly and professionally. No risky broadcasts, just a focus on conversation quality and sales conversion.",
-      ctaPrimary: "Get Started",
-      ctaSecondary: "Learn More",
+      badge: "#1 WhatsApp Sales Automation",
+      headline: "Turn WhatsApp Into A Sales Machine.",
+      subheadline: "Stop losing leads to slow replies. Let our AI Sales Agent handle inquiries, persuasion, and closing automatically using sales psychology. Zero extra staff needed.",
+      ctaPrimary: "Start Now",
+      ctaSecondary: "How It Works",
       trustText: "Trusted by 500+ Businesses",
-      partner: "Data Security First",
-      demoTitle: "AI Agent Simulation",
-      demoPlaceholder: "Your Business Type? (e.g., Real Estate...)",
-      demoButton: "Generate Chat",
-      demoBadge: "Live Preview",
-      chipsTitle: "Select Category:",
-      chips: ["Fashion", "Skincare", "E-Course", "Real Estate"],
+      partner: "Secure & Official API",
+      demoTitle: "Live Sales Simulation",
+      demoPlaceholder: "Your Business Niche? (e.g. Real Estate...)",
+      demoButton: "Generate Script",
+      demoBadge: "Live Demo",
+      chipsTitle: "Try Niche:",
+      chips: ["Fashion", "Skincare", "Coaching", "Real Estate"],
       aiPlaceholder: "AI Sales Agent Ready",
-      aiPlaceholderDesc: "Enter your business type above to see how the AI responds to potential customers professionally."
+      aiPlaceholderDesc: "Type your niche above. Watch how AI turns questions into sales opportunities."
     },
     features: {
-      badge: "Key Features",
-      title: "Smart Solutions for Business Growth",
-      subtitle: "Technology focused on sales team efficiency and WhatsApp account safety.",
+      badge: "Why Chatrigo?",
+      title: "Revenue Accelerating Technology",
+      subtitle: "Not just a chatbot. This is a complete sales system that works while you sleep.",
       list: [
         {
-          title: "AI Sales Assistant",
-          description: "Intelligent assistant trained to understand product context and serve customers with natural, polite language.",
-          tag: "Core AI"
+          title: "AI Sales Persuasion",
+          description: "Our AI doesn't just answer; it sells. Trained with hypnotic copywriting techniques to turn 'How much?' into 'Where to pay?'.",
+          tag: "Auto-Closing"
         },
         {
-          title: "Analytics Dashboard",
-          description: "Monitor sales team performance and traffic sources in real-time for data-driven decision making.",
-          tag: "Data"
+          title: "Smart Pixel Tracking",
+          description: "Automatically fires Purchase/Lead events to Meta Ads when a deal happens on WhatsApp. Supercharge your ad optimization.",
+          tag: "Ads Optimizer"
         },
         {
-          title: "Safe & Reliable",
-          description: "Inbound communication method that complies with WhatsApp policies, protecting your business number's reputation.",
+          title: "100% Safe (Official API)",
+          description: "Forget risky broadcast tools that ban your number. We use compliant, safe methods for long-term business assets.",
         },
         {
-          title: "Fast Setup",
-          description: "Integrating product knowledge is as easy as uploading a document or copying a website link.",
+          title: "5-Minute Lightning Setup",
+          description: "Just upload a PDF or copy your website link. The AI understands your entire product catalog in seconds.",
         },
         {
           title: "24/7 Operation",
-          description: "AI systems don't need rest, serving your customers even at 3 AM non-stop, ensuring no leads are missed.",
+          description: "Human admins need sleep. Chatrigo AI serves thousands of chats at 3 AM with friendly, instant responses.",
         },
         {
-          title: "Unlimited Scalability",
-          description: "Capable of handling thousands of concurrent chats during traffic spikes without the need to hire new admins.",
+          title: "Unlimited Scale",
+          description: "Ads going viral? Thousands of chats? Our system handles the spike seamlessly without queues or errors.",
         }
       ]
     },
     howItWorks: {
-      title: "Simple Integration",
-      subtitle: "Three simple steps to transform your customer service.",
+      title: "3 Steps to Sales Auto-Pilot",
+      subtitle: "Simple system, extraordinary results.",
       steps: [
         {
           title: "Connect WhatsApp",
-          desc: "Scan the QR Code to link your WhatsApp Business number to the Chatrigo platform."
+          desc: "Scan QR Code once. Your business number is instantly connected to our AI brain."
         },
         {
-          title: "Train AI Agent",
-          desc: "Provide product info or SOPs. The AI will learn and adapt instantly."
+          title: "Upload Business Brain",
+          desc: "Feed it your product info & best sales scripts. The AI clones your best salesperson."
         },
         {
-          title: "Ready to Serve",
-          desc: "The AI Agent will start responding to incoming messages automatically, 24/7 non-stop."
+          title: "Harvest Sales",
+          desc: "Walk away. Let the AI handle replies, follow-ups, and close orders for you."
         }
       ]
     },
     testimonials: {
-      title: "Trusted by Business Owners",
+      title: "Results From Real Businesses",
       items: [
         {
-          content: "Since using Chatrigo, our response time has improved drastically. Customers are happy with fast service, and conversions have increased significantly.",
+          content: "Insane! Ad conversion doubled because response time is instant. I moved my old admins to packing because they were overwhelmed with orders.",
           role: "Owner",
           company: "GlowUp Skincare"
         },
         {
-          content: "Huge help for our CS team. Common questions are handled by AI, so the team can focus on complex complaints.",
-          role: "Digital Marketer",
+          content: "The Pixel Tracking feature is a game changer. FB Ads targeting became razor sharp finding buyers. ROI this month hit 400%.",
+          role: "Digital Advertiser",
           company: "EduCourse Global"
         },
         {
-          content: "The system is stable and safe. I'm relieved there are no risky broadcast features. Highly recommended.",
+          content: "Was skeptical at first. Turns out the language is super natural. Customers don't realize they're chatting with an AI.",
           role: "Manager",
           company: "Local Brand Cloth"
         }
       ]
     },
     pricing: {
-      title: "Subscription Plans",
-      subtitle: "Choose the plan that fits your business scale.",
+      title: "High-ROI Investment",
+      subtitle: "Monthly subscription costs less than one admin's daily wage.",
       popular: "Best Value",
-      ctaSelect: "Select Plan",
+      ctaSelect: "Get This Plan",
       ctaCurrent: "Contact Sales"
     },
     faq: {
-      title: "Frequently Asked Questions",
+      title: "FAQ (Must Read)",
       items: [
         {
-          q: "Is my WhatsApp account safe?",
-          a: "Yes, security is our priority. Chatrigo is designed for natural inbound responses, complying with WhatsApp guidelines."
+          q: "Is my WhatsApp account safe from Bans?",
+          a: "Very Safe. We use 'Reactive Response' methods (only replying to incoming chats), complying strictly with WhatsApp Business policies."
         },
         {
-          q: "Why is there no Free Trial?",
-          a: "To maintain premium service quality. Free trials are often abused for spamming, which harms our IP reputation and affects other clients. We are dedicated to supporting serious businesses."
+          q: "Why no Free Trial?",
+          a: "Our AI server quality is premium and costly. We filter out spammers who abuse trials. We only work with serious businesses ready to profit."
         },
         {
-          q: "Can it track sales (Closings)?",
-          a: "Absolutely. Our system features tracking that integrates with Meta Pixel or other analytics tools to detect conversions."
+          q: "Can it detect Sales (Closings)?",
+          a: "Yes! Chatrigo detects deal keywords (like 'transfer done') and sends conversion signals to your Dashboard or Meta Pixel."
         },
         {
-          q: "Can the AI tone be adjusted?",
-          a: "Yes. You can adjust the AI's 'Tone of Voice' to match your brand, whether formal or casual."
+          q: "Is the language robotic?",
+          a: "No. You can adjust the Tone of Voice: casual, formal, or persuasive. The AI adapts like a real human."
         },
         {
-          q: "Do I need to keep my computer on?",
-          a: "No. Chatrigo is Cloud-based. You just login via browser, and the system runs automatically on our servers."
+          q: "Do I need tech skills?",
+          a: "No, the interface is super easy. Our support team is also ready to help via Zoom if you need initial setup assistance."
         }
       ]
     }

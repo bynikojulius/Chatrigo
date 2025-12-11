@@ -11,12 +11,12 @@ export const translations = {
     },
     hero: {
       badge: "Platform Automasi WhatsApp #1 Indonesia",
-      headline: "Ubah WhatsApp Jadi Mesin Closing 24 Jam.", // Not used directly in component but kept for reference
-      subheadline: "Stop boncos iklan karena admin slow respon. Biarkan AI Sales Agent melayani, follow-up, dan closing pelanggan secara otomatis menggunakan psikologi persuasi. Tanpa drama, tanpa admin tambahan.",
+      headline: "Ubah WhatsApp Jadi Mesin Closing 24 Jam.", 
+      subheadline: "Stop kehilangan omzet karena admin slow respon. Biarkan AI Sales Agent melayani, follow-up, dan closing pelanggan secara otomatis menggunakan psikologi persuasi. Tanpa drama, tanpa admin tambahan.",
       ctaPrimary: "Mulai Sekarang",
       ctaSecondary: "Pelajari Sistemnya",
       trustText: "Dipakai 500+ Brand Lokal",
-      partner: "Aman & Anti-Banned",
+      partner: "Aman & Enkripsi",
       demoTitle: "Simulasi Closing AI",
       demoPlaceholder: "Produk Bisnis Anda? (cth: Skincare, Fashion...)",
       demoButton: "Buat Script Sales",
@@ -37,13 +37,13 @@ export const translations = {
           tag: "Auto-Closing"
         },
         {
-          title: "Smart Pixel Tracking",
-          description: "Otomatis mengirim event Purchase/Lead ke Meta Ads saat terjadi deal di WhatsApp. Optimasi iklan jadi sangat akurat.",
-          tag: "Ads Optimizer"
+          title: "Smart Sales Tracker",
+          description: "Otomatis mendeteksi Lead & Closing dari percakapan. Data terintegrasi ke Dashboard & Meta Pixel untuk analisa performa marketing.",
+          tag: "Conversion"
         },
         {
-          title: "100% Aman (Official API)",
-          description: "Lupakan tools broadcast ilegal yang bikin nomor hangus. Kami menggunakan jalur resmi yang aman untuk aset jangka panjang.",
+          title: "Koneksi QR Instan",
+          description: "Tanpa verifikasi ribet. Cukup scan QR Code seperti WhatsApp Web, AI langsung aktif di nomor Anda dalam hitungan detik.",
         },
         {
           title: "Setup Kilat 5 Menit",
@@ -55,7 +55,7 @@ export const translations = {
         },
         {
           title: "Unlimited Scale",
-          description: "Iklan sedang winning? Ribuan chat masuk bersamaan? Sistem kami handle semuanya tanpa antri, tanpa error.",
+          description: "Promo sedang ramai? Ribuan chat masuk bersamaan? Sistem kami handle semuanya tanpa antri, tanpa error.",
         }
       ]
     },
@@ -64,8 +64,8 @@ export const translations = {
       subtitle: "Sistem yang sederhana, hasil yang luar biasa.",
       steps: [
         {
-          title: "Hubungkan WhatsApp",
-          desc: "Scan QR Code sekali saja. Nomor bisnis Anda langsung terhubung ke otak AI kami."
+          title: "Scan QR Code",
+          desc: "Hubungkan WhatsApp bisnis Anda cukup dengan scan QR Code sekali saja."
         },
         {
           title: "Upload 'Otak' Bisnis",
@@ -81,13 +81,13 @@ export const translations = {
       title: "Kata Mereka Yang Sudah Profit",
       items: [
         {
-          content: "Gila! Konversi iklan naik 2x lipat karena responnya cepet banget. Admin lama saya pindahin ke bagian packing karena kewalahan orderan.",
+          content: "Gila! Konversi penjualan naik 2x lipat karena responnya cepet banget. Admin lama saya pindahin ke bagian packing karena kewalahan orderan.",
           role: "Owner",
           company: "GlowUp Skincare"
         },
         {
-          content: "Fitur Pixel Tracking-nya game changer banget. Iklan FB Ads jadi makin tajam nyari pembeli. ROI bulan ini tembus 400%.",
-          role: "Digital Advertiser",
+          content: "Fitur Tracking-nya game changer banget. Saya jadi tahu persis campaign marketing mana yang menghasilkan banyak closingan.",
+          role: "Digital Marketer",
           company: "EduCourse ID"
         },
         {
@@ -109,7 +109,7 @@ export const translations = {
       items: [
         {
           q: "Apakah akun WhatsApp saya aman dari Banned?",
-          a: "Sangat Aman. Kami menggunakan metode 'Reactive Response' (hanya membalas chat masuk), bukan tool spam/broadcast barbar. Ini sesuai dengan kebijakan WhatsApp Business."
+          a: "Aman. Kami menggunakan teknologi 'Human-Like Behavior'. AI mengetik dan membalas dengan jeda natural layaknya manusia, bukan broadcast barbar."
         },
         {
           q: "Kenapa tidak ada Free Trial?",
@@ -142,11 +142,11 @@ export const translations = {
     hero: {
       badge: "#1 WhatsApp Sales Automation",
       headline: "Turn WhatsApp Into A Sales Machine.",
-      subheadline: "Stop losing leads to slow replies. Let our AI Sales Agent handle inquiries, persuasion, and closing automatically using sales psychology. Zero extra staff needed.",
+      subheadline: "Stop losing revenue due to slow replies. Let our AI Sales Agent handle inquiries, persuasion, and closing automatically using sales psychology. Zero extra staff needed.",
       ctaPrimary: "Start Now",
       ctaSecondary: "How It Works",
       trustText: "Trusted by 500+ Businesses",
-      partner: "Secure & Official API",
+      partner: "Secure & Encrypted",
       demoTitle: "Live Sales Simulation",
       demoPlaceholder: "Your Business Niche? (e.g. Real Estate...)",
       demoButton: "Generate Script",
@@ -167,13 +167,13 @@ export const translations = {
           tag: "Auto-Closing"
         },
         {
-          title: "Smart Pixel Tracking",
-          description: "Automatically fires Purchase/Lead events to Meta Ads when a deal happens on WhatsApp. Supercharge your ad optimization.",
-          tag: "Ads Optimizer"
+          title: "Smart Sales Tracker",
+          description: "Automatically detects Leads & Closings from chats. Integrates with Meta Pixel for accurate marketing performance analysis.",
+          tag: "Conversion"
         },
         {
-          title: "100% Safe (Official API)",
-          description: "Forget risky broadcast tools that ban your number. We use compliant, safe methods for long-term business assets.",
+          title: "Instant QR Connection",
+          description: "No complex verification. Simply scan the QR Code like WhatsApp Web, and AI activates instantly on your number.",
         },
         {
           title: "5-Minute Lightning Setup",
@@ -185,7 +185,7 @@ export const translations = {
         },
         {
           title: "Unlimited Scale",
-          description: "Ads going viral? Thousands of chats? Our system handles the spike seamlessly without queues or errors.",
+          description: "High traffic volume? Thousands of chats? Our system handles the spike seamlessly without queues or errors.",
         }
       ]
     },
@@ -194,8 +194,8 @@ export const translations = {
       subtitle: "Simple system, extraordinary results.",
       steps: [
         {
-          title: "Connect WhatsApp",
-          desc: "Scan QR Code once. Your business number is instantly connected to our AI brain."
+          title: "Scan QR Code",
+          desc: "Connect your WhatsApp Business simply by scanning a QR Code once."
         },
         {
           title: "Upload Business Brain",
@@ -211,13 +211,13 @@ export const translations = {
       title: "Results From Real Businesses",
       items: [
         {
-          content: "Insane! Ad conversion doubled because response time is instant. I moved my old admins to packing because they were overwhelmed with orders.",
+          content: "Insane! Sales conversion doubled because response time is instant. I moved my old admins to packing because they were overwhelmed with orders.",
           role: "Owner",
           company: "GlowUp Skincare"
         },
         {
-          content: "The Pixel Tracking feature is a game changer. FB Ads targeting became razor sharp finding buyers. ROI this month hit 400%.",
-          role: "Digital Advertiser",
+          content: "Sales tracking is a game changer. I know exactly which marketing campaigns bring the most revenue.",
+          role: "Digital Marketer",
           company: "EduCourse Global"
         },
         {
@@ -239,7 +239,7 @@ export const translations = {
       items: [
         {
           q: "Is my WhatsApp account safe from Bans?",
-          a: "Very Safe. We use 'Reactive Response' methods (only replying to incoming chats), complying strictly with WhatsApp Business policies."
+          a: "Safe. We use 'Human-Like Behavior' technology. The AI types and replies with natural delays just like a real person, ensuring safety for normal business use."
         },
         {
           q: "Why no Free Trial?",
